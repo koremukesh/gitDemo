@@ -6,6 +6,7 @@ public class Addition_within_range {
 		
        Scanner in=new Scanner(System.in);
        int sum=0;
+       System.out.println("Addition withinn range");
        int [][]a= {{1,2,3},{4,5,6}};
        System.out.println(a);
        System.out.print("Entered the pper limit for the range ");
